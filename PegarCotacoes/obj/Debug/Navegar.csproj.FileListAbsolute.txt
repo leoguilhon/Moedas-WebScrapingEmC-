@@ -1,0 +1,13 @@
+C:\Users\Administrador\source\repos\Navegar\obj\Debug\Navegar.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\Navegar\obj\Debug\Navegar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrador\source\repos\Navegar\obj\Debug\Navegar.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Navegar\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Administrador\source\repos\Navegar\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Administrador\source\repos\Navegar\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Administrador\source\repos\Navegar\bin\Debug\Navegar.exe.config
+C:\Users\Administrador\source\repos\Navegar\bin\Debug\Navegar.exe
+C:\Users\Administrador\source\repos\Navegar\bin\Debug\Navegar.pdb
+C:\Users\Administrador\source\repos\Navegar\bin\Debug\WebDriver.dll
+C:\Users\Administrador\source\repos\Navegar\obj\Debug\Navegar.csproj.CopyComplete
+C:\Users\Administrador\source\repos\Navegar\obj\Debug\Navegar.exe
+C:\Users\Administrador\source\repos\Navegar\obj\Debug\Navegar.pdb

@@ -1,0 +1,13 @@
+C:\Users\Administrador\source\repos\PegarCotacoes\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Administrador\source\repos\PegarCotacoes\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Administrador\source\repos\PegarCotacoes\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Administrador\source\repos\PegarCotacoes\bin\Debug\WebDriver.dll
+C:\Users\Administrador\source\repos\PegarCotacoes\obj\Debug\PegarCotacoes.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\PegarCotacoes\obj\Debug\PegarCotacoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrador\source\repos\PegarCotacoes\obj\Debug\PegarCotacoes.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\PegarCotacoes\obj\Debug\PegarCotacoes.csproj.CopyComplete
+C:\Users\Administrador\source\repos\PegarCotacoes\bin\Debug\PegarCotacoes.exe.config
+C:\Users\Administrador\source\repos\PegarCotacoes\bin\Debug\PegarCotacoes.exe
+C:\Users\Administrador\source\repos\PegarCotacoes\bin\Debug\PegarCotacoes.pdb
+C:\Users\Administrador\source\repos\PegarCotacoes\obj\Debug\PegarCotacoes.exe
+C:\Users\Administrador\source\repos\PegarCotacoes\obj\Debug\PegarCotacoes.pdb
